@@ -33,6 +33,7 @@ html {
 }
 
 .topbarlogo {
+  height: 80px;
   width: 10%;
   display: inline;
   float: left;
@@ -68,9 +69,19 @@ h2 {
   font-size: 1.875rem;
   list-style-type: none;
   text-align: left;
+  margin: 0 0 0 0.5em;
+}
+
+p {
+  margin: 0 0 0 1em;
 }
 
 body {
+  margin: 0;
+}
+
+ul {
+  padding: 1em;
   margin: 0;
 }
 
