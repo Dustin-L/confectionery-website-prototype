@@ -103,7 +103,6 @@ a {
 section {
   background-color: grey;
   color: #fff;
-  position: absolute;
 }
 
 a:hover {
@@ -147,5 +146,6 @@ a:hover {
     margin: 0;
     font-size: 130%;
     line-height: 1.5;
+    position: absolute;
   }
 }
