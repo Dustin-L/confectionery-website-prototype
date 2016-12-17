@@ -52,8 +52,6 @@ html {
 div {
   width: 5%;
   display: inline;
-  position: relative;
-  position: absolute;
 }
 
 h1 {
@@ -101,6 +99,10 @@ a {
   margin-bottom: .3em;
 }
 
+section {
+  background-color: grey;
+  z
+}
 a:hover {
   text-decoration: none;
   background-color: #999;
