@@ -21,7 +21,7 @@ html {
 
 .topbar {
   z-index: 500;
-  background-color: 	#FF6347;
+  background-color: #ff6347;
   width: 100%;
   position: fixed;
   top: 0;
@@ -108,7 +108,7 @@ section {
 
 a:hover {
   text-decoration: none;
-  background-color: 	#D2691E;
+  background-color: #d2691e;
 }
 
 .current {
